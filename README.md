@@ -71,11 +71,14 @@
   <a href="https://linkedin.com/in/wickramasinghe1"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
 </div>
 
- 
-<h3 align="left">One of my favourite quotes:</h3>
+
+<h3 align="left">Quotes</h3>
+ <details>
+  <summary>One of my favourite quotes:</summary>
   <blockquote>
     “Can I say something? Um, I’m the type of person that if you ask me a question and I don’t know the answer, I’m gonna tell you that I don’t know. But I bet you what, I know how to find the answer and I will find the answer.”<br><strong>Chris Gardner interpreted by Will Smith in the movie "Pursuit of Happyness" (2006)</strong>
   </blockquote>
+  </details>
   
 ![](https://komarev.com/ghpvc/?username=wickramasinghe1&label=Visitors+Count&color=brightgreen)
 
