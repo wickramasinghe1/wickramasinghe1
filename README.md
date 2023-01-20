@@ -23,6 +23,7 @@
  * @param {string} interests - Problem-solving.
  * @param {string} hobbies - Travelling, reading & watch movies.
  * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
+ * @param {string} email - dinuka.wickramasinghe1@gmail.com
  * @param {Date} birthday - 19th of Auguest 1998.
  * @throws {Punch} To any and all bugs.
  * @returns {Object} Dinuka Wickramasinghe.
