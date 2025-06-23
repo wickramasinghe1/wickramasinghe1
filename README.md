@@ -2,7 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Dinuka Wickramasinghe</h1> 
+<h1 align="center">Hi 👋, I'm Dinuka Wickremesinghe</h1> 
 <h3 align="center"> Full stack developer | Associate Software Engineer @Sentura Technologies | Sri Lanka</h3>
 
 
